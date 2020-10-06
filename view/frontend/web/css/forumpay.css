@@ -1,0 +1,7 @@
+.payment-icon.forumpay-payment-icon[visible="hidden"]{
+	display: none;
+}
+.payment-method [for="forumpay"] span, .payment-method [for="forumpay"] img {
+    display: inline-block;
+    vertical-align: middle;
+}
